@@ -12,7 +12,7 @@ Here are some of my recent open-source projects:
 
 A clean and animated personal portfolio template built with React, Tailwind CSS, and Framer Motion. Deployed on Netlify.
 
-🔗 [Live Demo](https://react-portfolio-arif.netlify.app)
+🔗 [Live Demo](https://react-portfolio-template-arif.netlify.app)
 
 ---
 
@@ -20,7 +20,7 @@ A clean and animated personal portfolio template built with React, Tailwind CSS,
 
 A modern UI component library using only HTML and Tailwind CSS. Ideal for quick mockups and responsive landing pages.
 
-🔗 [Live Demo](https://tailwind-kit-arif.netlify.app)
+🔗 [Live Demo](https://tailwind-uikit-arif.netlify.app/)
 
 ---
 
